@@ -1,4 +1,4 @@
-# Linera-Regression-Using-R
+# Linear-Regression-Using-R
 
 Our dataset is all about different types of body parts, their measurements and we will be using Linear Regression in R to find the correlation between 2 attributes by looking at the scope and intercept values provided by the model to test the relationship between a person’s chest diameter (che.di) and height (hgt) and see how the model works. There are two terms very famous in testing or finding correlation between the attributes i.e.. Null and Alternative Hypothesis, i believe that you have prior basic knowledge of stats, before jumping to this repo.
 
